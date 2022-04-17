@@ -14,9 +14,9 @@
 
 ```
 Collection: {
-collectionMetadata: '5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4',
-collectionPDA: 'Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW',
-txId: '48ZzBgwGmbPtkjNZSevVpxRGRxsLCbRYVDSK22Xrm6UdtcAMc6jUzXz982Zia9ip5DJGYmvM9kQ9pYqsiG1aqQE8'
+  collectionMetadata: '5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4',
+  collectionPDA: 'Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW',
+  txId: '48ZzBgwGmbPtkjNZSevVpxRGRxsLCbRYVDSK22Xrm6UdtcAMc6jUzXz982Zia9ip5DJGYmvM9kQ9pYqsiG1aqQE8'
 }
 ```
 
