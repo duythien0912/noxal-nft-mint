@@ -315,7 +315,7 @@ const Home = (props: HomeProps) => {
           />
 
           <Typography variant="caption" color="textSecondary">
-            Astral Whale (v3) {process.env.REACT_APP_CANDY_MACHINE_ID}
+            Noxal (v1) {process.env.REACT_APP_CANDY_MACHINE_ID}
           </Typography>
 
           {!wallet.connected ? (
