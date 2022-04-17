@@ -1,21 +1,24 @@
-<p align="center">
-  <a href="https://metaplex.com">
-    <img alt="Metaplex" src="js/packages/web/public/metaplex-logo.svg" style="background: black; padding: 10px" width="250" />
-  </a>
-</p>
+- Candy machine address: **AmVhcSGquSo7KZnSxyzTf8hts4euLQ3s5aF57UiTBUw6**
 
-Candy machine address:  AmVhcSGquSo7KZnSxyzTf8hts4euLQ3s5aF57UiTBUw6
-Collection metadata address:  5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4
-Collection metadata authority:  HiC3P35j7ZdKfL1MY1VsFEaFcTgZYrqiyWckpVXPvAW4
-Collection master edition address:  79w1bNLbRrnkj1mCu3r4XzA8Mow5jgFGBEtDvWwJybjb
-Collection mint address:  BdWjZ3WWejE2CFw2VfJ4fAD8fXawtxQ7LjTRBRAmBgej
-Collection PDA address:  Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW
-Collection authority record address:  D8QdFSoSQFYZJaxgo2gqSAhCHDq6PVz7Nk3BvrpA8AhH
-Collection:  {
-  collectionMetadata: '5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4',
-  collectionPDA: 'Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW',
-  txId: '48ZzBgwGmbPtkjNZSevVpxRGRxsLCbRYVDSK22Xrm6UdtcAMc6jUzXz982Zia9ip5DJGYmvM9kQ9pYqsiG1aqQE8'
+- Collection metadata address: **5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4**
+
+- Collection metadata authority: **HiC3P35j7ZdKfL1MY1VsFEaFcTgZYrqiyWckpVXPvAW4**
+
+- Collection master edition address: **79w1bNLbRrnkj1mCu3r4XzA8Mow5jgFGBEtDvWwJybjb**
+
+- Collection mint address: **BdWjZ3WWejE2CFw2VfJ4fAD8fXawtxQ7LjTRBRAmBgej**
+
+- Collection PDA address: **Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW**
+
+- Collection authority record address: **D8QdFSoSQFYZJaxgo2gqSAhCHDq6PVz7Nk3BvrpA8AhH**
+
+```
+Collection: {
+collectionMetadata: '5GTcTmZDvzR5ec7KvAGM94jeucrmGm35oCDxMX7b3cn4',
+collectionPDA: 'Cggb3GHTE5u1PU2ZG5PL7Vuh1ZDdRRKnLgDfAh4RcCGW',
+txId: '48ZzBgwGmbPtkjNZSevVpxRGRxsLCbRYVDSK22Xrm6UdtcAMc6jUzXz982Zia9ip5DJGYmvM9kQ9pYqsiG1aqQE8'
 }
+```
 
 Metaplex is a protocol built on top of Solana that allows:
 
