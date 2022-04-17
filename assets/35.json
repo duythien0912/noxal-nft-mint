@@ -1,0 +1,38 @@
+{
+  "name": "NOXAL #35",
+  "symbol": "NOX",
+  "description": "NOX collection on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "35.png",
+  "external_url": "https://www.noxal.com",
+  "edition": 35,
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Special:44d01bbdc57e"
+    },
+    {
+      "trait_type": "Elemental",
+      "value": "Corruption"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "35.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Fxwxv4gyKM4pR3tJCAbXBNDffkiHXKW6QE1D4FaXnex3",
+        "share": 100
+      }
+    ]
+  }
+}
